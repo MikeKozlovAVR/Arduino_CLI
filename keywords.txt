@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For MultiTasker
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Cli	KEYWORD1
+CliProcess	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+regProcess	KEYWORD2
+cliSerialEvent	KEYWORD2
+out	KEYWORD2
+outln	KEYWORD2
+in	KEYWORD2
+script	KEYWORD2
+regTaskPid	KEYWORD2
+setMultiTasker	KEYWORD2
+destroyRegisteredTasks	KEYWORD2
+getArgC	KEYWORD2
+getArgV	KEYWORD2
+setArg	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
